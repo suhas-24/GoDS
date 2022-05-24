@@ -1,1 +1,4 @@
 # GoDS
+
+# Tasks
+-[] Time Complexity
