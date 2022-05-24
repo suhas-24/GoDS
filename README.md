@@ -1,6 +1,6 @@
 # Hi, I'm Suhas! 👋
 
-# GoDS
+# GoDS🎯
 
 This is a curated list of Data Structures and Algorithms.
 
