@@ -1,4 +1,6 @@
 # GoDS
 
 # Tasks
-- [ ] Time Complexity
+- [x] Time Complexity
+- [ ] Arrays
+- [ ] Lists
